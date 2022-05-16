@@ -55,7 +55,7 @@ int main()
 		printf("----------------------------------------------------------------\n"); /* print */
 		printf("                   Binary Search Tree #2                        \n"); /* print */
 		printf("----------------------------------------------------------------\n"); /* print */
-		printf(" Initialize BST       = z                                       \n"); /* print */
+		printf(" Initialize BST       = z      printStack                   = p \n"); /* print */
 		printf(" Insert Node          = i      Delete Node                  = d \n"); /* print */
 		printf(" Recursive Inorder    = r      Iterative Inorder (Stack)    = t \n"); /* print */
 		printf(" Level Order (Queue)  = l      Quit                         = q \n"); /* print */
